@@ -8,4 +8,4 @@ Prerequisites:
 4) Change folder paths as required (this will be done automatically in the next version) 
 
 TODO:
-• Set paths to use current directory (i.e make portable/run out of the root folder)
+  • Set paths to use current directory (i.e make portable/run out of the root folder)
